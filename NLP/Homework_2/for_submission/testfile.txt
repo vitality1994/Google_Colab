@@ -1,0 +1,9 @@
+For each of your language models, compute the perplexity of the test item. 
+Whichever language model gives the lowest perplexity should be how you classify the test item.
+For each of your language models, generate five samples of each author given the same prompt you specify and compare them.
+In a hole in the ground there lived a hobbit. 
+Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
+Most gracious host … it was said to me by Elrond Halfelven that I should find friendship upon the way, secret and unlooked for. 
+Certainly I looked for no such friendship as you have shown. 
+To have found it turns evil to great good.
+If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.
